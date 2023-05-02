@@ -492,8 +492,8 @@ install.packages("ggplot2")
 
 ```{.output}
 Installing ggplot2 [3.4.2] ...
-	OK [linked cache in 0.3 milliseconds]
-* Installed 1 package in 1.4 seconds.
+	OK [linked cache in 0.26 milliseconds]
+* Installed 1 package in 0.66 seconds.
 ```
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
